@@ -23,6 +23,7 @@ The project includes the following GEE applications:
         *   Provides links to more specific historical and real-time applications.
     *   **To Run:** Copy the code from `OnlineApp.js` into the GEE Code Editor.
     *   **Live App (Main Portal):** (Assumed, based on links in the script)
+        *   Main app Link: `https://lihuan.projects.earthengine.app/view/chla-balaton`
         *   Historical Data Link: `https://lihuan.projects.earthengine.app/view/chla-balaton-history`
         *   Real-time Data Link: `https://lihuan.projects.earthengine.app/view/chla-balaton-realtime`
 
@@ -118,9 +119,9 @@ The `OnlineApp_history.js` and `OnlineApp_realtime.js` scripts include an "Adapt
 
 ## Citation
 
-If you use this project or its components in your research, please consider citing the associated publication (details to be added if applicable).
+If you use this project or its components in your research, please consider citing the associated publication.
 
-*(Placeholder for citation: e.g., Li, H. et al. (Year). Title of Paper. Journal Name. DOI)*
+*Li, H., Somogyi, B., Chen, X., Luo, Z., Blix, K., Wu, S., Duan, Z. and Tóth, V.R. (2025) Leveraging Landsat and Google Earth Engine for Long-term Chlorophyll-a Monitoring: a Case Study of Lake Balaton’s water quality . Ecological Informatics.*
 
 ---
 
