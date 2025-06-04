@@ -121,7 +121,7 @@ The `OnlineApp_history.js` and `OnlineApp_realtime.js` scripts include an "Adapt
 
 If you use this project or its components in your research, please consider citing the associated publication.
 
-*Li, H., Somogyi, B., Chen, X., Luo, Z., Blix, K., Wu, S., Duan, Z. and Tóth, V.R. (2025) Leveraging Landsat and Google Earth Engine for Long-term Chlorophyll-a Monitoring: a Case Study of Lake Balaton’s water quality . Ecological Informatics.*
+*Li, H., Somogyi, B., Chen, X., Luo, Z., Blix, K., Wu, S., Duan, Z. and Tóth, V.R. (2025) Leveraging Landsat and Google Earth Engine for long-term chlorophyll-a monitoring: A case study of Lake Balaton's water quality. Ecological Informatics 90, 103245.https://doi.org/10.1016/j.ecoinf.2025.103245*
 
 ---
 
